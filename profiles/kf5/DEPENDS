@@ -44,7 +44,7 @@ depends kdnssd
 depends kidletime
 depends ksvg
 depends ktexttemplate
-depends kimageformats
+#depends kimageformats
 depends kpty
 depends kunitconversion
 depends prison

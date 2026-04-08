@@ -11,3 +11,4 @@ depends kcoreaddons
 depends ki18n
 depends kio
 depends kservice
+depends prison

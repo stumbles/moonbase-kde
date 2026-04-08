@@ -1,11 +1,11 @@
           MODULE=ksystemstats
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/${VERSION}
-      SOURCE_VFY=sha256:d700d628ac0371c9f3730ca11d7bd528ab234a10078e8ce3d77fff47cf8e8bac
+      SOURCE_VFY=sha256:31bdf29e6ba0bc5d790d1a04cb0fa9f92bb7fdf9dd8e146fe06eebb2664a7b44
         WEB_SITE=https://invent.kde.org/plasma/ksystemstats
          ENTERED=20210628
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="a daemon that collects system stats"
 
 cat << EOF

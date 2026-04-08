@@ -1,11 +1,11 @@
           MODULE=oxygen
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/${VERSION}
-      SOURCE_VFY=sha256:2b62011740f28db8975ce37ed733f514e8180ffe4840f81276bd9f9914d7079c
+      SOURCE_VFY=sha256:d42522d3c34138583f3ab6a3d8077fbc77cb87a413205fed35a9d5feef9009cd
         WEB_SITE=https://projects.kde.org/projects/kde/workspace/oxygen
          ENTERED=20150504
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="oxygen theme"
 
 cat << EOF

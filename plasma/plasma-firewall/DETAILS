@@ -1,11 +1,11 @@
           MODULE=plasma-firewall
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/${VERSION}
-      SOURCE_VFY=sha256:dca9ac27df7b6dbc28db69440d7cc1c0b92257815c5aa3664540b897566c0e88
+      SOURCE_VFY=sha256:5d9968be018af11da32a068bbe478a6f428e9bea16daee648044de11d9addeac
         WEB_SITE=https://kde.org/plasma-desktop/
          ENTERED=20210622
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="Control panel for your systems firewall"
 
 cat << EOF

@@ -1,11 +1,11 @@
           MODULE=plasma5support
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/${VERSION}
-      SOURCE_VFY=sha256:7f764826ef8967990eb42da3636bbfdd29c85e3928eeb917b8d8fed4b77f730c
+      SOURCE_VFY=sha256:30b4c1f17b8ef29e4ff519748690cc2545bbb61d71b3bc91b1ddeee981f94fd8
         WEB_SITE=http://www.kde.org
          ENTERED=20240312
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="Support components for porting from KF5/Qt5 to KF6/Qt6"
 
 cat << EOF

@@ -1,11 +1,11 @@
           MODULE=plasma-activities
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/${VERSION}
-      SOURCE_VFY=sha256:ac15123637ea067ab646cde091d69c84fc24742fd7308e5418bf99298ab9717a
+      SOURCE_VFY=sha256:a1973821797c703177d51e698f8abfd8294796a9396316440b14dca958bb57e5
         WEB_SITE=https://invent.kde.org/plasma/plasma-disks
          ENTERED=20240308
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="core KDE activities components"
 
 cat << EOF

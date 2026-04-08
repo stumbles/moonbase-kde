@@ -1,11 +1,11 @@
           MODULE=kdeplasma-addons
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=kdeplasma-addons-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/${VERSION}
-      SOURCE_VFY=sha256:e9c99ea5283d708fe06257f277313fdfa19bccfaf81482a28a50fce0bfff2947
+      SOURCE_VFY=sha256:bd979fab502100af5e39501a6a68fdabacb747ff7f46a9d22a01084ca0093cae
         WEB_SITE=http://www.kde.org
          ENTERED=20080716
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="mandatory package for KDE"
 
 cat << EOF

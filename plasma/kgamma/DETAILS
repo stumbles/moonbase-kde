@@ -1,12 +1,12 @@
           MODULE=kgamma
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/${VERSION}
-      SOURCE_VFY=sha256:6c13370802e14595f24f3fd475a50cd27138f9af5fe873df306b90d9ee2956d6
+      SOURCE_VFY=sha256:a7d3df14e5e016399e30e06923c0478a2c40a3a915e06abf070bd97e9381f1a3
 SOURCE_DIRECTORY=$BUILD_DIRECTORY/kgamma-$VERSION
         WEB_SITE=http://www.kde.org
          ENTERED=20240312
-         UPDATED=20260317
+         UPDATED=20260407
         REPLACES=kgamm5
            SHORT="adjust monitor gamma settings"
 

@@ -1,11 +1,11 @@
           MODULE=plasma-login-manager
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/$VERSION/
-      SOURCE_VFY=sha256:1fc44c638ab19bf7996ce0d608cb47526f023e182e2d7cdab61b049448acbd61
+      SOURCE_VFY=sha256:3b4a3838459011115a97a4563be20907070cace91ba9679dc7fa43dced44cd1e
         WEB_SITE=https://kde.org/plasma-desktop/
          ENTERED=20260225
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="forked from SDDM"
 
 cat << EOF

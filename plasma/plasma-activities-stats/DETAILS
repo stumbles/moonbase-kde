@@ -1,11 +1,11 @@
           MODULE=plasma-activities-stats
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/${VERSION}
-      SOURCE_VFY=sha256:56667b230dc52893c3f08680e37a403d228a50a6a0b06ad081179224a7f16d16
+      SOURCE_VFY=sha256:8b1a6a93afee6876d5050d874927912f32e52c60ff3c67bcded477f4f7c9cd45
         WEB_SITE=https://invent.kde.org/plasma/plasma-disks
          ENTERED=20240312
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="access usage data collected"
 
 cat << EOF

@@ -1,11 +1,11 @@
           MODULE=breeze
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/$VERSION/
-      SOURCE_VFY=sha256:31826f094a447873c24b01c67392f96f0135a404cc219c4b969391a22ddd31dd
+      SOURCE_VFY=sha256:15ec98c5bdae5cb762c162a2aae87605531e20cf80a7ebeaa36e8d694018ffda
         WEB_SITE=https://projects.kde.org/projects/kde/workspace/breeze
          ENTERED=20151123
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="breeze widgets"
 
 cat << EOF

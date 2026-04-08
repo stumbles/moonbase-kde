@@ -1,11 +1,11 @@
           MODULE=plasma-workspace
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/$VERSION
-      SOURCE_VFY=sha256:18001465a01ee29292a3c37e62205106ee9f79f18aaa42ae9654d160abf11790
+      SOURCE_VFY=sha256:c68a70f33b3f638eccccd51f842491cc45abc6f143f5cae4a14b180b94a83ea2
         WEB_SITE=https://projects.kde.org/projects/kde/workspace/$MODULE
          ENTERED=20151123
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="KDE Plasma Workspace"
 
 cat << EOF

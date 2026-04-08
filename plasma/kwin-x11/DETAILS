@@ -1,11 +1,11 @@
           MODULE=kwin-x11
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/$VERSION/
-      SOURCE_VFY=sha256:a29fc80038fa4608cd1c9ca56734e874b0ba6ae66a6494a079e7f738ff36cc53
+      SOURCE_VFY=sha256:81106d8b89fa2a9c93434e41aadc040ff2d7afb3b4693f423a45853806836e98
         WEB_SITE=
          ENTERED=20250617
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="X Window Manager"
 
 cat << EOF

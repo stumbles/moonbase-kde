@@ -1,11 +1,11 @@
           MODULE=aurorae
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/$VERSION/
-      SOURCE_VFY=sha256:2a196fea76980f20b53bbd94f5ef7a6b5ee08b68ba7a1a5917a780b789c57e91
+      SOURCE_VFY=sha256:f7dbc82de06a53dd2c3ff54ae542351485cd5b27e071fada5bb7fc87911054f3
         WEB_SITE=https://develop.kde.org/docs/plasma/aurorae/
          ENTERED=20250617
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="kwin theme engine"
 
 cat << EOF

@@ -1,11 +1,11 @@
           MODULE=kscreen
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/${VERSION}
-      SOURCE_VFY=sha256:45f2999182eef89991812cfcf085b368d58052d21c22ab46325998aa51db13d1
+      SOURCE_VFY=sha256:2f123691ac25da7f5166894ebaddda9615ddbaf949ebbb6c9829196b0615c250
         WEB_SITE=https://projects.kde.org/projects/kde/workspace/$MODULE
          ENTERED=20151123
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="KDE's screen management software"
 
 cat << EOF

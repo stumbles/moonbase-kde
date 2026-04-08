@@ -1,11 +1,11 @@
           MODULE=qqc2-breeze-style
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/${VERSION}
-      SOURCE_VFY=sha256:bc5864726fcdf0f3c81cbbc97aa4d5327ccfdd86a621b475ce5cd3e2ad6c4348
+      SOURCE_VFY=sha256:24e54a1b72f5f6d2f5a5f41c4e331c8f8324f12fddf6b200d2e04ea378e46132
         WEB_SITE=https://projects.kde.org/projects/kde/workspace/$MODULE
          ENTERED=20210615
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="Breeze inspired QQC2 Style"
 
 cat << EOF

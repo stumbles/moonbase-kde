@@ -1,11 +1,11 @@
           MODULE=kwrited
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/${VERSION}
-      SOURCE_VFY=sha256:7d254573de29330bd47cb332de97a824e0ea23bcabc516cc917ba16823a40c80
+      SOURCE_VFY=sha256:22543f56e124e76c96666e162b70d88d9dfdaf4000e732fca3ffc34a2ed36196
         WEB_SITE=https://projects.kde.org/projects/kde/workspace/$MODULE
          ENTERED=20151123
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="KDE daemon listening for wall and write messages"
 
 cat << EOF

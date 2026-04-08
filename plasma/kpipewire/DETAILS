@@ -1,11 +1,11 @@
           MODULE=kpipewire
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/$VERSION/
-      SOURCE_VFY=sha256:3758393ad2dfd32074a31c705d840d742a074731983b489995829f18636d9e21
+      SOURCE_VFY=sha256:1b9ef2890be00ee96ca439770a3f7842f54ac901c6a47edd3d68aff85c1a3a8f
         WEB_SITE=https://kde.org/plasma-desktop/
          ENTERED=20221014
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="plasma components for pipewire"
 
 cat << EOF

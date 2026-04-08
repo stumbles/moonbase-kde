@@ -1,11 +1,11 @@
           MODULE=spectacle
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/$VERSION/
-      SOURCE_VFY=sha256:beceaffae061676215582227208b8a29e9dce1689480ba86e76ec8afa0fef13d
+      SOURCE_VFY=sha256:1e6d66f3a4731c635f6abd144f1bb002271b12626ccb38e86f04e79c7e1ad2e6
          WEB_SITE=https://kde.org/applications/utilities/org.kde.spectacle
           ENTERED=20171205
-          UPDATED=20260317
+          UPDATED=20260407
             SHORT="KDE screenshot capture utility"
 
 cat << EOF

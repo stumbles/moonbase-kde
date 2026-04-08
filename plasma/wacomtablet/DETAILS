@@ -1,11 +1,11 @@
           MODULE=wacomtablet
-         VERSION=6.6.3
+         VERSION=6.6.4
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/plasma/$VERSION/
-      SOURCE_VFY=sha256:74e9c6dafa85258c99323dd5338653a899037b333f5ac91c0df4c42340ea7ab3
+      SOURCE_VFY=sha256:00f77e240c22594706e1beb282ab0f5447f422d7a830efa640b7938680243c9a
         WEB_SITE=https://userbase.kde.org/Wacomtablet
          ENTERED=20250617
-         UPDATED=20260317
+         UPDATED=20260407
            SHORT="GUI for wacom linux drivers"
 
 cat << EOF

@@ -106,8 +106,8 @@ depends krfb
 depends kalgebra
 depends kwave
 depends krdc
-#depends rocs
-#depends umbrello
+depends rocs
+depends umbrello
 depends kate
 depends kwalletmanager
 depends signon-kwallet-extension

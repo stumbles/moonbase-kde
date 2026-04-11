@@ -1,11 +1,11 @@
           MODULE=kstatusnotifieritem
-         VERSION=6.24.0
+         VERSION=6.25.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/frameworks/$(module_version kf5)
-      SOURCE_VFY=sha256:f76c77dcc27a60007330329a6d6c60298c11ddddba82f710a90715ec81f886ff
+      SOURCE_VFY=sha256:7a6397f08b15a7d50e407c193f1774b548994f6f9d12327dfbb674270adfc9af
         WEB_SITE=https://community.kde.org/KDE_PIM
          ENTERED=20240308
-         UPDATED=20260313
+         UPDATED=20260411
            SHORT="Implementation of Status Notifier Items"
 
 cat << EOF

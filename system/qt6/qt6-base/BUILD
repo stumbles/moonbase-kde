@@ -31,7 +31,6 @@ OPTS+=" -DCMAKE_BUILD_TYPE=Release \
         -DFEATURE_libproxy=ON \
         -DCMAKE_MESSAGE_LOG_LEVEL=STATUS \
         -Wno-dev \
-        -DQT_UNITY_BUILD=ON \
         -DFEATURE_no_direct_extern_access=ON \
         -DQT_FEATURE_testlib=ON \
         -DBUILD_WITH_PCH=OFF \

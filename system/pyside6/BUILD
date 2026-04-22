@@ -1,5 +1,6 @@
 source /etc/profile.d/qt6.rc &&
 export LANG='en_US.UTF-8'
+export PYTHONDONTWRITEBYTECODE=1 
 
 git revert -n c9d602ab4afa5c9834c4674a742dc9bab7f4b326 05e328476f2d6ef8a0f3f44aca1e5b1cdb7499fc &&
 

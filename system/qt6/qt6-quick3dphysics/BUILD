@@ -6,17 +6,16 @@ CFLAGS="-U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2"
 CXXFLAGS="-U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2"
 
 OPTS+=" -DCMAKE_BUILD_TYPE=Release \
-        -DCMAKE_INSTALL_PREFIX=/usr \
-        -DINSTALL_BINDIR=lib/qt6/bin \
-        -DINSTALL_LIBEXECDIR=lib/qt6 \
-        -DINSTALL_LIBDIR=lib/qt6 \
+        -DCMAKE_INSTALL_PREFIX=$MODULE_PREFIX \
+        -DINSTALL_LIBEXECDIR=qt6 \
+        -DINSTALL_LIBDIR=qt6 \
         -DINSTALL_DOCDIR=share/doc/qt6 \
-        -DINSTALL_ARCHDATADIR=/usr/lib/qt6 \
+        -DINSTALL_ARCHDATADIR=qt6 \
         -DINSTALL_DATADIR=share/qt6 \
         -DINSTALL_INCLUDEDIR=include/qt6 \
         -DINSTALL_MKSPECSDIR=lib/qt6/mkspecs \
+        -DINSTALL_PLUGINSDIR=lib/qt6/plugins \
         -DINSTALL_EXAMPLESDIR=share/doc/qt6/examples \
-        -DINSTALL_SYSCONFDIR=/etc/xdg \
         -DCMAKE_MESSAGE_LOG_LEVEL=STATUS \
         -Wno-dev"
 

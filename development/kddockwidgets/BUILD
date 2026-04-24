@@ -6,7 +6,7 @@ OPTS+=" -DCMAKE_BUILD_TYPE=Release \
         -DKDDockWidgets_FRONTENDS='qtwidgets;qtquick' \
         -DCMAKE_INSTALL_LIBDIR=lib \
         -DKDDockWidgets_QT6=true \
-        -DECM_MKSPECS_INSTALL_DIR=/usr/qt6/mkspecs \
+        -DECM_MKSPECS_INSTALL_DIR=/usr/lib/qt6/mkspecs \
         -Wno-dev"
 
 cmake -B $MODULE-$VERSION -S . -G Ninja $OPTS &&

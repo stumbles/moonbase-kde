@@ -1,7 +1,7 @@
 source /etc/profile.d/qt6.rc &&
 export LANG='en_US.UTF-8'
 
-sedit 's:mkspecs/modules:qt6/mkspecs/modules:' src/lib/marble/CMakeLists.txt &&
+sedit 's:mkspecs/modules:lib/qt6/mkspecs/modules:' src/lib/marble/CMakeLists.txt &&
 sedit '52i Exec=/usr/bin/marble' src/plugins/runner/kml/marble_thumbnail_kmz.desktop &&
 
 OPTS+=" -DKDE_INSTALL_USE_QT_SYS_PATHS=ON \

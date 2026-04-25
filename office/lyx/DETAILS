@@ -1,11 +1,11 @@
           MODULE=lyx
-         VERSION=2.5.0
+         VERSION=2.5.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=https://ftp.lip6.fr/pub/lyx/stable/2.5.x/
-      SOURCE_VFY=sha256:42a15cbc9be68140f06c3a17a77f7fe114cb9ac2e36a97d0059c8aa3d0b97b41
+      SOURCE_VFY=sha256:f2a2387bcb3f2f546c1fc13e4c74cb4f8aa648706ce5788ef705dd51344d2cfd
         WEB_SITE=http://www.lyx.org
          ENTERED=20020904
-         UPDATED=20260313
+         UPDATED=20260425
            SHORT="GUI LaTeX editor"
 
 cat << EOF

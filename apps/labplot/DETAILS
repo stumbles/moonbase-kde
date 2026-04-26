@@ -3,7 +3,7 @@
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/$MODULE/
       SOURCE_VFY=sha256:e28155bfddf40e5b6f7c4791313556d1e48138044f216f210d515b9f6d6c106a
-        WEB_SITE=https://kde.org/applications/en/education/org.kde.labplot2
+        WEB_SITE=https://apps.kde.org/labplot/
          ENTERED=20160520
          UPDATED=20260107
            SHORT="Scientific Data Plotter"

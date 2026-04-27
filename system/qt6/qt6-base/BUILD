@@ -16,7 +16,7 @@ OPTS+=" -DCMAKE_BUILD_TYPE=Release \
         -DCMAKE_INSTALL_PREFIX=$MODULE_PREFIX \
         -DINSTALL_BINDIR=qt6/bin \
         -DINSTALL_PUBLICBINDIR=bin \
-        -DINSTALL_LIBEXECDIR=lib/qt6 \
+        -DINSTALL_LIBEXECDIR=qt6/bin \
         -DINSTALL_LIBDIR=qt6 \
         -DINSTALL_DOCDIR=share/doc/qt6 \
         -DINSTALL_ARCHDATADIR=qt6 \

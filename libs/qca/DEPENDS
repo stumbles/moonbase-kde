@@ -7,4 +7,4 @@ depends pkcs11-helper
 
 optional_depends qt5             "" "" "For qt5 support"
 optional_depends ca-certificates "" "" "Use system certificates"
-optional_depends Botan           "" "" "For botan crypto cupport"
+optional_depends Botan3           "" "" "For botan crypto cupport"

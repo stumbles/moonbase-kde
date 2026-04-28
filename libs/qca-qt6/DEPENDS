@@ -8,4 +8,4 @@ depends qt6-base
 
 optional_depends ca-certificates "" "" "Use system certificates"
 
-optional_depends Botan "" "" "For botan crypto cupport"
+optional_depends Botan3 "" "" "For botan crypto cupport"

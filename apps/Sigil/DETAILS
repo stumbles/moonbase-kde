@@ -1,12 +1,12 @@
           MODULE=Sigil
-         VERSION=2.7.5
+         VERSION=2.7.6
           SOURCE=$MODULE-$VERSION.tar.gz
  SOURCE_URL_FULL=https://github.com/Sigil-Ebook/Sigil/archive/${VERSION}.tar.gz
-      SOURCE_VFY=sha256:c9524fe3894fccb3e6f19a4a9c1c3521519b23a961a61f6d1354fc15d6d7a655
+      SOURCE_VFY=sha256:0b3df166cdaddbe74f28351e53e6cfc0af51256351958e513c7bb92e3614d817
 SOURCE_DIRECTORY=$BUILD_DIRECTORY/$MODULE-$VERSION
         WEB_SITE=https://github.com/user-none/Sigil
          ENTERED=20091107
-         UPDATED=20260312
+         UPDATED=20260504
            SHORT="qt6 WYSIWYG ebook editor"
 
 cat << EOF

@@ -1,11 +1,11 @@
           MODULE=kalarm
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:87d46227f249c0bbb07880937a955e7a5ba76cd465992a9a0b365f46cea88559
+      SOURCE_VFY=sha256:45c144398b380f03424159a8333f50e7f67e8058c0baef1b605e5bb7f5036e9c
         WEB_SITE=https://community.kde.org/KDE_PIM
          ENTERED=20171205
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="A personal alarm scheduler"
 
 cat << EOF

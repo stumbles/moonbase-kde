@@ -1,11 +1,11 @@
           MODULE=libkcddb
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:a7b35cc2562334a36ebc6e737962b3d8ec22322f376b1d6eb6837f312fe05360
+      SOURCE_VFY=sha256:fa73b78a36e7467bf99f88f34c2bae868f5f4f71306f4bdbc226d70ad3071949
         WEB_SITE=http://www.kde.org
          ENTERED=20120801
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Library used to retrieve audio CD meta data from the internet"
 
 cat << EOF

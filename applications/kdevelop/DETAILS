@@ -1,12 +1,12 @@
           MODULE=kdevelop
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=http://download.kde.org/stable/release-service/$VERSION/src/
-     SOURCE_VFY=sha256:4af9c4a2a7d3c9c76caa53556ee756e1179b31e91363a909fcc3dbba64d8e3ca
+     SOURCE_VFY=sha256:c9354e8f9e2a881eb664c16355bf2341ed83747771cfa3b23eeb1701dcf7486b
    MODULE_PREFIX=${KDE_PREFIX:-/usr}
         WEB_SITE=http://www.kdevelop.org/
          ENTERED=20090824
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="IDE for KDE"
 
 cat << EOF

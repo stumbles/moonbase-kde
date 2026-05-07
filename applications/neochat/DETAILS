@@ -1,11 +1,11 @@
           MODULE=neochat
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:890e46495784cb1d9109c235e5e9b808320f5fd581f6bc4ef8001e294cce893a
+      SOURCE_VFY=sha256:8adefd9e096cdd40b9ce460afa1fe92a616e1bbd34d8ffea9e02db3aabff0878
         WEB_SITE=https://apps.kde.org/neochat
          ENTERED=20210720
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="a Matrix client"
 
 cat << EOF

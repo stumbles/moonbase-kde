@@ -1,11 +1,11 @@
           MODULE=okular
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:030d54cf3971258dcddd503fd9ad66f11aefb804c72bedd2ab5bf8777fb7f1f3
+      SOURCE_VFY=sha256:3d87a0d9e9fe62435a913190a0a7edd75bec6a02ce2eda4089046adcffc6bba6
         WEB_SITE=http://www.kde.org/applications/graphics/okular/
          ENTERED=20110813
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Universal document viewer"
 
 cat << EOF

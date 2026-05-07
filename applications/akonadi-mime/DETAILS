@@ -1,12 +1,12 @@
           MODULE=akonadi-mime
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:11eb9c3482662c1fb1df1d8b4a9d1d96f6f04a65208b5ef71e37cb18a41f297a
+      SOURCE_VFY=sha256:5d5cbe14a218101d364fd483db16f163240f7b6e02c78c7245c8d1d5752219be
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=https://community.kde.org/KDE_PIM
          ENTERED=20171201
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="basic email handling"
 
 cat << EOF

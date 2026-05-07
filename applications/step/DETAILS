@@ -1,11 +1,11 @@
           MODULE=step
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:568e380d52592ed29c99d14ca7e50c626d366d8096b7cf5c94a0296490bd6489
+      SOURCE_VFY=sha256:124969ea955dec3657e57d8c957a3b9cf619d3450fe59dd958eeeb40d16d938c
         WEB_SITE=http://stepcore.sf.net
          ENTERED=20110813
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Interactive Physical Simulator"
 
 cat << EOF

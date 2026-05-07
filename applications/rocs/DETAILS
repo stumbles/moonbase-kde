@@ -1,12 +1,12 @@
           MODULE=rocs
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:a7c6694e86e5c54d55978654359ebf603e2401a3e75464288c3a288ee4483bd6
+      SOURCE_VFY=sha256:2e22bb8ad84afde650132666ec36b29aedab5606fa6946189848a92dfc86b773
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=https://edu.kde.org/rocs/
          ENTERED=20110813
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Graph editor and programming environment"
 
 cat << EOF

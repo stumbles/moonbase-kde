@@ -1,12 +1,12 @@
           MODULE=pim-sieve-editor
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:e666c3d2bf8dfdcc8a8310ad0d6b4afbc1ae1b558574bee3b7fe93336af457cd
+      SOURCE_VFY=sha256:acda774aeee4838efc450c6e19e7df038c75606828699e13adbf280ced463c40
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=https://community.kde.org/KDE_PIM
          ENTERED=20171205
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="A mail sieve editor"
 
 cat << EOF

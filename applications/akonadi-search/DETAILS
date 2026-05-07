@@ -1,11 +1,11 @@
           MODULE=akonadi-search
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:14b98b08c9515ffc886d30d0d950a77e607eba508a73ce4f577bab314dece132
+      SOURCE_VFY=sha256:2a3a40284faeb61c2d2f1b09ecc80c1844e498115ad8bccc1729431141b95e3f
         WEB_SITE=http://techbase.kde.org/Getting_Started/Build/KDE4/Troubleshooting
          ENTERED=20151122
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="libraries and daemons to implement searching in akonadi"
 
 cat << EOF

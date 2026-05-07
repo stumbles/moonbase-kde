@@ -1,12 +1,12 @@
           MODULE=kmouth
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:e2493b3fce529bc6ddde1479e8a9b2230e2aaba87d157bfd35f8be4e4347e360
+      SOURCE_VFY=sha256:48e9a7a0030b058dbef34c14ecb44d0c3e08c59728bb8d549882a18da9ca2a39
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=http://www.kde.org/applications/utilities/kmouth/
          ENTERED=20120125
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Enable your computer to speak"
 
 cat << EOF

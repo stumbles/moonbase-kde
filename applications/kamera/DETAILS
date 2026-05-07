@@ -1,12 +1,12 @@
           MODULE=kamera
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:a67fde23047ea136afb9415b8ecbc5cb4b275a7311d889bebc027ec2a40e3053
+      SOURCE_VFY=sha256:d98de5e7c57a6c3d8625d5b3d84a16c99598e91a993c4e4aa94dce3ba2ebf0c8
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=https://kde.org/applications/utilities/org.kde.kamera
          ENTERED=20110813
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="kamera"
 
 cat << EOF

@@ -1,11 +1,11 @@
           MODULE=kmime
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:ce8d5c95f8beaa1dc11201d1ee903689955455247c76cdaf8ef17400bffd4ad1
+      SOURCE_VFY=sha256:79616a7bc28710f8f2fc4e7eee53342e83c58969eef09ba70e63ee2017472e6a
         WEB_SITE=https://projects.kde.org/kmime
          ENTERED=20151122
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Library for handling mail messages and newsgroup articles"
 
 cat << EOF

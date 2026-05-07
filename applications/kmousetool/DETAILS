@@ -1,12 +1,12 @@
           MODULE=kmousetool
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:3eec4e18549856a6f30836f96de7c33ba136c41ddccbcfe7ec44269e26216b81
+      SOURCE_VFY=sha256:03ae084d92ea4ada6b85f723bdeb396cbf502751211bd645f861df63ef777f2e
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=http://www.kde.org
          ENTERED=20120125
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Kmousetool"
 
 cat << EOF

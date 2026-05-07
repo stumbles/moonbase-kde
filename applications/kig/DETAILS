@@ -1,11 +1,11 @@
           MODULE=kig
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:b460c04b596e2ff05caa20898d1e9a75c8ddeb537450bcc4ae470aa238497821
+      SOURCE_VFY=sha256:0850e5488ff7c7120fed475681eca7cc0d0b90d8869523f4ec88e370e5149436
         WEB_SITE=http://edu.kde.org/kig
          ENTERED=20110813
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="KDE Interactive Geometry"
 
 cat << EOF

@@ -1,12 +1,12 @@
           MODULE=libkeduvocdocument
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:032689e3af4da9ce578bfa8efb8945d214556a09ddff412a5c2f8d5be720d653
+      SOURCE_VFY=sha256:2994fa1b3c66dcb20d969147fffef28faf375c073b29aeda37db5f3432c21e29
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=http://edu.kde.org
          ENTERED=20150214
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Common libraries for KDE Edu applications"
 
 cat << EOF

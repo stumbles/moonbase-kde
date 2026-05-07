@@ -1,12 +1,12 @@
           MODULE=kaddressbook
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:fe7535b08558835e06bb53dcde67810074d6184bc38f927ae170922f87ead607
+      SOURCE_VFY=sha256:1b9f6f78f60a3044164a6b0b7fae5a9608925969d8c71541a61d84ab6d3caa2b
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=https://community.kde.org/KDE_PIM
          ENTERED=20171201
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="A contact manager"
 
 cat << EOF

@@ -1,11 +1,11 @@
           MODULE=konqueror
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:c6c3e053caf5cd2e01baf155f9579213f7fca3f85d8ef1edc95396a4fff08bfa
+      SOURCE_VFY=sha256:0049726058e323d46fd1eb6271b30cae6289d828baa4508db60ab0b2f477a4f9
         WEB_SITE=https://konqueror.org/
          ENTERED=20171205
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="A filemanager and web browser"
 
 cat << EOF

@@ -1,11 +1,11 @@
           MODULE=yakuake
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:98c56fd23155e528f5136583de7700109cc4812dd5bc6c7d8940046f020223c5
+      SOURCE_VFY=sha256:1aa75d75169ae74c806c9db056cc3df32b1586ab6c6d78344e82411386efa457
         WEB_SITE=http://extragear.kde.org/apps/yakuake
          ENTERED=20100216
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="A terminal emulator for KDE"
 
 cat << EOF

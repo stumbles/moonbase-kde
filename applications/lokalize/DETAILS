@@ -1,12 +1,12 @@
           MODULE=lokalize
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:d72c4d817b529c252eff748792676ee8535f5928642701ec4e18b36d066f64f9
+      SOURCE_VFY=sha256:87e903af17d2aebf36833ada764b7b129ea900b5ac078c916949d48c7c60859e
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=http://www.kde.org/applications/development/lokalize/
          ENTERED=20130814
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Computer-Aided Translation System"
 
 cat << EOF

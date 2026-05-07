@@ -1,12 +1,12 @@
           MODULE=pim-data-exporter
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:6fe5178dab3bac4ecac6c1e5d9f869346e0023653d764fec80cccae96750ac00
+      SOURCE_VFY=sha256:d0007d11ffb3bc020379abdd36e4c4e2418f9deb511c36db9891dc710a5b56b6
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=https://community.kde.org/KDE_PIM
          ENTERED=20151122
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Import and export KDE PIM settings"
 
 cat << EOF

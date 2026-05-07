@@ -1,12 +1,12 @@
           MODULE=korganizer
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:b890069f4397c7c0905a947dd3f0abc735363bb12e1422a8225b4f6befa06d4b
+      SOURCE_VFY=sha256:1b92e8ede6ee9a6c046032da75d00873d2584b0db274331e064414340fc9dadb
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=https://community.kde.org/KDE_PIM
          ENTERED=20171205
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="A calendar and scheduling program"
 
 cat << EOF

@@ -1,12 +1,12 @@
           MODULE=audiotube
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:ed44c45dfdb47978ef88d99a4dc68e65fe194cb1d33bda9a7b68717862e2eca8
+      SOURCE_VFY=sha256:78952113ae9b553a64f1fde1ed532f33871046b1dd40f62688638c1f14bb2216
    MODULE_PREFIX=${KDE_PREFIX:-/usr}
         WEB_SITE=https://apps.kde.org/audiotube/
          ENTERED=20230615
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="youtube client"
 
 cat << EOF

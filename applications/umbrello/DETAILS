@@ -1,12 +1,12 @@
           MODULE=umbrello
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:4685cf3d61cdf2cd6aa1ad524e07e578c60928ff5254fe0ddc5eb2dba7a0cb48
+      SOURCE_VFY=sha256:d5ccce924091558d76b6bf0245deb342cb7afcc8dbfae5205bb3668114ed2060
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=http://umbrello.kde.org/
          ENTERED=20130814
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Unified Modelling Language diagram program"
 
 cat << EOF

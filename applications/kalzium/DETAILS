@@ -1,12 +1,12 @@
           MODULE=kalzium
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:bff944d960642f90ed703c2284d655c1eca7eed09ff3a1d7361e2cb417c57849
+      SOURCE_VFY=sha256:493f915d85e769cb189539bebb527ad3ebfc3d9a1d938644b06436ce0fbfc006
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=http://edu.kde.org/kalzium/
          ENTERED=20110813
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Shows information about the periodic system of the elements"
 
 cat << EOF

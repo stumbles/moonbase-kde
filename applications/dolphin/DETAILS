@@ -1,11 +1,11 @@
           MODULE=dolphin
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/${VERSION}/src
-      SOURCE_VFY=sha256:5c5e5024835fddbcd9dfaa9c16ab2bcff2475645b0e28d1b269de42e412ec543
+      SOURCE_VFY=sha256:ba4da5192f7e45f392feaa74dfb18fddddcf9dbcc8f9abeb3f670e83ed9e4f57
         WEB_SITE=http://kde.org/applications/system/dolphin
          ENTERED=20151122
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="file manager"
 
 cat << EOF

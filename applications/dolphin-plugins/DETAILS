@@ -1,11 +1,11 @@
           MODULE=dolphin-plugins
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:e60c8e3b253084d652fb99c3038eeb575de766b4ab928e55690e3b8207221fba
+      SOURCE_VFY=sha256:eff4e09163ef6785fa4f93074f32be7e7e2bb0173f16a06bdfaabc3860f06d02
         WEB_SITE=http://dolphin.kde.org/
          ENTERED=20130814
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="File management of svn, git, hg, bazaar and dropbox"
 
 cat << EOF

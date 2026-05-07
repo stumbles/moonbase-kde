@@ -1,12 +1,12 @@
           MODULE=cantor
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:316392b4b0c7651bf861f8afb2b1438153471e3b421994da121b8d387c5e4b0b
+      SOURCE_VFY=sha256:ce835577baaad9acf438fefd69ffd8da406d9c3f148abee467270f6d8cf96670
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=http://www.kde.org
          ENTERED=20110813
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Mathematics and Scientific Computing"
 PSAFE=no
 cat << EOF

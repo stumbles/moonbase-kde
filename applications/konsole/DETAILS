@@ -1,11 +1,11 @@
           MODULE=konsole
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:a413aea8c336b2f452f2daeb9685de6c4a17ba8bb2c1a8a54c3c449693f922eb
+      SOURCE_VFY=sha256:4c59dabc4b64201c61458e8997a66d1aa7dc98b181e5e85f3c0f5cb69066d963
         WEB_SITE=https://konsole.kde.org/
          ENTERED=20110813
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Terminal program for KDE"
 
 cat << EOF

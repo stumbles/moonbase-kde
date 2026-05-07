@@ -1,11 +1,11 @@
           MODULE=ksmtp
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:fdb0ea95f971eb181a0ea6229768dbcaa22518db76e8beb848091a25e200ffd4
+      SOURCE_VFY=sha256:81bf1e19757671b1b69cb7790b422fe4814bfb13fac7264059201b032454c1f1
         WEB_SITE=https://api.kde.org/kdepim/ksmtp/html/index.html
          ENTERED=20171217
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Job-based library to send email through an SMTP server"
 
 cat << EOF

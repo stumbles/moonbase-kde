@@ -1,12 +1,12 @@
           MODULE=kirigami-gallery
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:f85b0ac55c7912b4969d6a30facb87675084e36bc994b1142603e6ea6b9f3386
+      SOURCE_VFY=sha256:5c33118b8bf1854e4b622352a23ddbaef20d092ad553b8005b5d7b0ab0200dcb
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=https://apps.kde.org/kirigami2.gallery/
          ENTERED=20240728
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="part of the kirigami framework"
 
 cat << EOF

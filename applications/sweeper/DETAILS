@@ -1,12 +1,12 @@
           MODULE=sweeper
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:6229818162a721f9505f6f49f5d3187c68a211fc6a96a3195ba9c4e4bd212c2e
+      SOURCE_VFY=sha256:1a88b0da5db8d7f5b8c704b3afcf04b27f1287b32fafa596fcae78cc6cfc95b4
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=http://www.kde.org/applications/utilities/sweeper/
          ENTERED=20120125
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="A system cleaner"
 
 cat << EOF

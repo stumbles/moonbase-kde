@@ -1,11 +1,11 @@
           MODULE=colord-kde
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/${VERSION}/src/
-      SOURCE_VFY=sha256:cae62752f7f60baa78fa294f13ed3fe3da30d173d68cc192ccc17fb00478d45f
+      SOURCE_VFY=sha256:d5af781a1bd68eeecde139d6d406f1c85bb9da0f2dea2a3e0d78adbb19177b37
         WEB_SITE=https://projects.kde.org/projects/playground/graphics/colord-kde
          ENTERED=20121016
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="KDE color management module"
 
 cat << EOF

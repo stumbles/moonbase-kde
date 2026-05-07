@@ -1,11 +1,11 @@
           MODULE=mimetreeparser
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src/
-      SOURCE_VFY=sha256:91059c4c79463d2ae9a41f9ce4c0bedb251f63d8d2e6aa6e34496990eb64e4e3
+      SOURCE_VFY=sha256:5aeec9af9b3d589a948350d32f8724b142a8c82ad0c5465b4e934b6159f68219
         WEB_SITE=https://kontact.kde.org
          ENTERED=20240324
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Parser for MIME trees"
 
 cat << EOF

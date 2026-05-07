@@ -1,11 +1,11 @@
           MODULE=libkomparediff2
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:b05d1eedec1f500de7931da4a4dd8aa9514c021b27e00b3cac7118d0ec425e8c
+      SOURCE_VFY=sha256:3d4dde544fa4e65337a31efe9ddad0bd3567159ea7dfe189a5757a3c312f41af
         WEB_SITE=https://projects.kde.org/projects/kde/kdesdk/libkomparediff2
          ENTERED=20140713
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Compare files and strings"
 
 cat << EOF

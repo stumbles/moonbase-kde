@@ -1,11 +1,11 @@
           MODULE=kontact
-         VERSION=26.04.0
+         VERSION=26.04.1
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:1de9dcd49d4962156b83a39a0033bbb6bb11ede72dd3843cf9286baf151130dd
+      SOURCE_VFY=sha256:f137ddc84dfb2759621f7d6d63ca60879f40f6c2ffae3d206e2e80f2e9bd4743
         WEB_SITE=https://userbase.kde.org/Kontact
          ENTERED=20171205
-         UPDATED=20260416
+         UPDATED=20260507
            SHORT="Personal information manager"
 
 cat << EOF

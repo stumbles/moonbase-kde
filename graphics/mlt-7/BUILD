@@ -10,6 +10,7 @@ OPTS+=" -DCMAKE_INSTALL_PREFIX=/usr\
         -DMOD_QT6=ON \
         -DSWIG_CSHARP=OFF \
         -DMOD_MOVIT=OFF \
+        -DMOD_RNNOISE=OFF \
         -Wno-dev"
 
 cmake -B $MODULE-$VERSION -S . -G Ninja $OPTS &&

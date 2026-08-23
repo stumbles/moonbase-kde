@@ -1,13 +1,13 @@
           MODULE=mlt-7
-         VERSION=7.38.0
+         VERSION=7.40.0
           SOURCE=$MODULE-$VERSION.tar.gz
  SOURCE_URL_FULL=https://github.com/mltframework/mlt/archive/refs/tags/v$VERSION.tar.gz
-      SOURCE_VFY=sha256:6bd35edeca27a80e66ba881228fb1c4216d766996752b46ffdf953423bc3cdcb
+      SOURCE_VFY=sha256:49070c3aa84af719de77875d44a62a1c115aff923aff60657fe6dbaaef877601
 SOURCE_DIRECTORY=$BUILD_DIRECTORY/mlt-$VERSION
         WEB_SITE=http://www.mltframework.org
         REPLACES=mlt
          ENTERED=20210623
-         UPDATED=20260426
+         UPDATED=20260823
            SHORT="An open source multimedia framework"
 
 cat << EOF

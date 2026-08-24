@@ -5,7 +5,7 @@
       SOURCE_VFY=sha256:9f06313cd7d6cdde8db43067126d650fc5cc904b6f0b89159274a03e4805a91a
         WEB_SITE=https://projects.kde.org/projects/frameworks/kio
          ENTERED=20150205
-         UPDATED=20260815
+         UPDATED=20260823
            SHORT="network transparent access to files and data"
 
 cat << EOF

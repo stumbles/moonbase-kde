@@ -1,4 +1,4 @@
-. /etc/profile.d/qt6.rc &&
+source /etc/profile.d/qt6.rc &&
 export LANG='en_US.UTF-8'
 
 OPTS+=" -DQT6=ON \

@@ -1,12 +1,12 @@
           MODULE=kquickimageeditor
-         VERSION=0.6.2
+         VERSION=0.7.0
           SOURCE=$MODULE-v$VERSION.tar.bz2
       SOURCE_URL=https://invent.kde.org/libraries/kquickimageeditor/-/archive/v$VERSION/
-      SOURCE_VFY=sha256:4dde1660e3a0e0eab55d5b028ba6ea2d977fe57b10636b0f7a1c6bdabd38d21c
+      SOURCE_VFY=sha256:ab7fed537aeffb24d062bf9681a446b8e5fd3f0c9939c3f36f617985561b9790
 SOURCE_DIRECTORY=$BUILD_DIRECTORY/$MODULE-v$VERSION
         WEB_SITE=https://invent.kde.org/libraries/kquickimageeditor/-/tree/master
          ENTERED=20210720
-         UPDATED=20260619
+         UPDATED=20260831
            SHORT="QtQuick components providing basic image editing capabilities"
 
 cat << EOF

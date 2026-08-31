@@ -7,7 +7,7 @@ SOURCE_DIRECTORY=$BUILD_DIRECTORY/mlt-$VERSION
         WEB_SITE=http://www.mltframework.org
         REPLACES=mlt
          ENTERED=20210623
-         UPDATED=20260823
+         UPDATED=20260831
            SHORT="An open source multimedia framework"
 
 cat << EOF

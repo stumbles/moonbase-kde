@@ -1,4 +1,6 @@
-unset CFLAGS CXXFLAGS
+sedit 's:4.7:5.0:' CMakeLists.txt &&
+
+#unset CFLAGS CXXFLAGS
 source /etc/profile.d/qt6.rc &&
 export LANG='en_US.UTF-8'
 

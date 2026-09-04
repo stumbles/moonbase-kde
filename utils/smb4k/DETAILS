@@ -1,11 +1,11 @@
           MODULE=smb4k
-         VERSION=4.0.6
+         VERSION=4.0.7
           SOURCE=$MODULE-$VERSION.tar.bz2
       SOURCE_URL=https://invent.kde.org/network/smb4k/-/archive/$VERSION/
-      SOURCE_VFY=sha256:e757dffa135526110525c5f8d833908fe61e22948070bfe1176bcf5d33db9150
+      SOURCE_VFY=sha256:ccc112930bb67988aaeba625a76c0ea9cef111b3b891df2bb7c3760f56b6670e
         WEB_SITE=https://www.kde.org/applications/utilities/smb4k/
          ENTERED=20091002
-         UPDATED=20260216
+         UPDATED=20260904
            SHORT="SMB share browser for KDE"
 
 cat << EOF
